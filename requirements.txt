@@ -1,0 +1,2 @@
+numpy==2.2.6
+CairoSVG==2.9.0

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" role="img">
+<title>How much each economy would collect under the club</title>
+<desc>Annual collections under a one-percent levy on large firms, showing four member economies and two holdouts.</desc>
+<rect x="0" y="0" width="1400" height="1000" fill="#fefefe"/>
+<text x="700.0" y="52.0" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="30" font-weight="600" fill="#1a1a1a" opacity="1.000" style="">How much each economy would collect under the club</text>
+<text x="700.0" y="84.0" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="400" fill="#777" opacity="1.000" style="font-style:italic;">An annual 1% levy on large firms, apportioned by where each firm sells. Every member collects from covered firms worldwide.</text>
+<text x="312.0" y="138.0" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="700" fill="#7a7a7a" opacity="1.000" style="letter-spacing:0.06em;">HOLDING OUT</text>
+<text x="1088.0" y="138.0" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="700" fill="#1a1a1a" opacity="1.000" style="letter-spacing:0.06em;">CLUB MEMBERS</text>
+<line x1="700.0" y1="156.0" x2="700.0" y2="908.0" stroke="#c9c9c9" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="9 8" opacity="0.700"/>
+<rect x="56.0" y="168.0" width="512.0" height="240.0" rx="14" ry="14" fill="#f1f1ef" stroke="#dcdcda" stroke-width="1.5" opacity="1.000"/>
+<text x="86.0" y="214.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="23" font-weight="600" fill="#7a7a7a" opacity="1.000" style="">China (+HK)</text>
+<text x="86.0" y="248.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="600" fill="#8a8a88" opacity="1.000" style="">collects $0 while holding out</text>
+<line x1="86.0" y1="270.0" x2="538.0" y2="270.0" stroke="#dcdcda" stroke-width="1.2" stroke-linecap="butt" opacity="0.900"/>
+<text x="86.0" y="304.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="400" fill="#7a7a7a" opacity="1.000" style="font-style:italic;">their firms still pay $59B a year into the club</text>
+<text x="86.0" y="332.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400" fill="#8a8a88" opacity="1.000" style="font-style:italic;">the cap leaves $104B a year uncollected until they join</text>
+<rect x="86.0" y="342.0" width="452.0" height="46.0" rx="23.0" ry="23.0" fill="#C6912E" stroke="none" stroke-width="0" opacity="0.140"/>
+<rect x="86.0" y="342.0" width="452.0" height="46.0" rx="23.0" ry="23.0" fill="none" stroke="#C6912E" stroke-width="1.6" opacity="1.000"/>
+<text x="312.0" y="372.0" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#C6912E" opacity="1.000" style="">Join the club, collect $250B a year</text>
+<rect x="56.0" y="668.0" width="512.0" height="240.0" rx="14" ry="14" fill="#f1f1ef" stroke="#dcdcda" stroke-width="1.5" opacity="1.000"/>
+<text x="86.0" y="714.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="23" font-weight="600" fill="#7a7a7a" opacity="1.000" style="">Rest of World</text>
+<text x="86.0" y="748.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="600" fill="#8a8a88" opacity="1.000" style="">collects $0 while holding out</text>
+<line x1="86.0" y1="770.0" x2="538.0" y2="770.0" stroke="#dcdcda" stroke-width="1.2" stroke-linecap="butt" opacity="0.900"/>
+<text x="86.0" y="804.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="400" fill="#7a7a7a" opacity="1.000" style="font-style:italic;">their firms still pay $226B a year into the club</text>
+<rect x="86.0" y="842.0" width="452.0" height="46.0" rx="23.0" ry="23.0" fill="#7C8A34" stroke="none" stroke-width="0" opacity="0.140"/>
+<rect x="86.0" y="842.0" width="452.0" height="46.0" rx="23.0" ry="23.0" fill="none" stroke="#7C8A34" stroke-width="1.6" opacity="1.000"/>
+<text x="312.0" y="872.0" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#7C8A34" opacity="1.000" style="">Join the club, collect $270B a year</text>
+<path d="M 570.0 277.9 C 634.9 277.9, 634.9 501.9, 688.0 501.9 L 688.0 522.1 C 634.9 522.1, 634.9 298.1, 570.0 298.1 Z" fill="#C6912E" stroke="none" stroke-width="0" opacity="0.420"/>
+<path d="M 570.0 762.0 C 634.9 762.0, 634.9 522.1, 688.0 522.1 L 688.0 574.1 C 634.9 574.1, 634.9 814.0, 570.0 814.0 Z" fill="#7C8A34" stroke="none" stroke-width="0" opacity="0.420"/>
+<path d="M 688.0 501.9 L 818.0 501.9 L 818.0 481.9 L 848.0 538.0 L 818.0 594.1 L 818.0 574.1 L 688.0 574.1 Z" fill="#b0b0b0" stroke="none" stroke-width="0" opacity="0.300"/>
+<line x1="829.0" y1="168.0" x2="829.0" y2="908.0" stroke="#b0b0b0" stroke-width="3" stroke-linecap="round" opacity="0.600"/>
+<text x="753.0" y="455.9" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#555" opacity="1.000" style="">$285B a year</text>
+<text x="753.0" y="476.9" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400" fill="#777" opacity="1.000" style="font-style:italic;">from out-of-club firms</text>
+<text x="753.0" y="622.1" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400" fill="#777" opacity="1.000" style="font-style:italic;">members divide it</text>
+<rect x="832.0" y="168.0" width="512.0" height="170.0" rx="14" ry="14" fill="#4385BE" stroke="none" stroke-width="0" opacity="0.130"/>
+<rect x="832.0" y="168.0" width="10.0" height="170.0" rx="5" ry="5" fill="#4385BE" stroke="none" stroke-width="0" opacity="1.000"/>
+<text x="862.0" y="212.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="23" font-weight="600" fill="#1a1a1a" opacity="1.000" style="">United States</text>
+<text x="862.0" y="248.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="25" font-weight="700" fill="#4385BE" opacity="1.000" style="">collects $655B a year</text>
+<text x="862.0" y="276.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="400" fill="#777" opacity="1.000" style="font-style:italic;">about 6% of all US government spending</text>
+<rect x="862.0" y="286.0" width="303.9" height="13.0" rx="3.5" ry="3.5" fill="#4385BE" stroke="none" stroke-width="0" opacity="0.920"/>
+<rect x="1168.4" y="286.0" width="56.3" height="13.0" rx="3.5" ry="3.5" fill="#4385BE" stroke="none" stroke-width="0" opacity="0.580"/>
+<rect x="1227.1" y="286.0" width="86.9" height="13.0" rx="3.5" ry="3.5" fill="#4385BE" stroke="none" stroke-width="0" opacity="0.300"/>
+<text x="862.0" y="319.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="400" fill="#555" opacity="1.000" style="">its own firms $445B   ·   other members $82B   ·   out-of-club $127B</text>
+<rect x="832.0" y="358.0" width="512.0" height="170.0" rx="14" ry="14" fill="#DA702C" stroke="none" stroke-width="0" opacity="0.130"/>
+<rect x="832.0" y="358.0" width="10.0" height="170.0" rx="5" ry="5" fill="#DA702C" stroke="none" stroke-width="0" opacity="1.000"/>
+<text x="862.0" y="402.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="23" font-weight="600" fill="#1a1a1a" opacity="1.000" style="">European Union</text>
+<text x="862.0" y="438.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="25" font-weight="700" fill="#DA702C" opacity="1.000" style="">collects $272B a year</text>
+<text x="862.0" y="466.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="400" fill="#777" opacity="1.000" style="font-style:italic;">about 3% of all EU public spending</text>
+<rect x="862.0" y="476.0" width="43.0" height="13.0" rx="3.5" ry="3.5" fill="#DA702C" stroke="none" stroke-width="0" opacity="0.920"/>
+<rect x="907.5" y="476.0" width="82.9" height="13.0" rx="3.5" ry="3.5" fill="#DA702C" stroke="none" stroke-width="0" opacity="0.580"/>
+<rect x="992.9" y="476.0" width="56.6" height="13.0" rx="3.5" ry="3.5" fill="#DA702C" stroke="none" stroke-width="0" opacity="0.300"/>
+<text x="862.0" y="509.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="400" fill="#555" opacity="1.000" style="">its own firms $64B   ·   other members $123B   ·   out-of-club $84B</text>
+<rect x="832.0" y="548.0" width="512.0" height="170.0" rx="14" ry="14" fill="#3AA99F" stroke="none" stroke-width="0" opacity="0.130"/>
+<rect x="832.0" y="548.0" width="10.0" height="170.0" rx="5" ry="5" fill="#3AA99F" stroke="none" stroke-width="0" opacity="1.000"/>
+<text x="862.0" y="592.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="23" font-weight="600" fill="#1a1a1a" opacity="1.000" style="">Japan+Korea+Taiwan</text>
+<text x="862.0" y="628.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="25" font-weight="700" fill="#3AA99F" opacity="1.000" style="">collects $186B a year</text>
+<text x="862.0" y="656.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="400" fill="#777" opacity="1.000" style="font-style:italic;">about 8% of the region's public spending</text>
+<rect x="862.0" y="666.0" width="36.3" height="13.0" rx="3.5" ry="3.5" fill="#3AA99F" stroke="none" stroke-width="0" opacity="0.920"/>
+<rect x="900.8" y="666.0" width="48.6" height="13.0" rx="3.5" ry="3.5" fill="#3AA99F" stroke="none" stroke-width="0" opacity="0.580"/>
+<rect x="951.9" y="666.0" width="38.3" height="13.0" rx="3.5" ry="3.5" fill="#3AA99F" stroke="none" stroke-width="0" opacity="0.300"/>
+<text x="862.0" y="699.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="400" fill="#555" opacity="1.000" style="">its own firms $55B   ·   other members $73B   ·   out-of-club $58B</text>
+<rect x="832.0" y="738.0" width="512.0" height="170.0" rx="14" ry="14" fill="#8B7EC8" stroke="none" stroke-width="0" opacity="0.130"/>
+<rect x="832.0" y="738.0" width="10.0" height="170.0" rx="5" ry="5" fill="#8B7EC8" stroke="none" stroke-width="0" opacity="1.000"/>
+<text x="862.0" y="782.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="23" font-weight="600" fill="#1a1a1a" opacity="1.000" style="">United Kingdom</text>
+<text x="862.0" y="818.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="25" font-weight="700" fill="#8B7EC8" opacity="1.000" style="">collects $50B a year</text>
+<text x="862.0" y="846.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="400" fill="#777" opacity="1.000" style="font-style:italic;">about 3% of all UK public spending</text>
+<rect x="862.0" y="856.0" width="14.0" height="13.0" rx="3.5" ry="3.5" fill="#8B7EC8" stroke="none" stroke-width="0" opacity="0.920"/>
+<rect x="878.5" y="856.0" width="26.5" height="13.0" rx="3.5" ry="3.5" fill="#8B7EC8" stroke="none" stroke-width="0" opacity="0.580"/>
+<rect x="907.6" y="856.0" width="18.4" height="13.0" rx="3.5" ry="3.5" fill="#8B7EC8" stroke="none" stroke-width="0" opacity="0.300"/>
+<text x="862.0" y="889.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="400" fill="#555" opacity="1.000" style="">its own firms $12B   ·   other members $23B   ·   out-of-club $16B</text>
+<text x="56.0" y="960.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" fill="#555" opacity="1.000" style="">Together the club would collect $1.2T a year.</text>
+<text x="56.0" y="984.0" text-anchor="start" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400" fill="#777" opacity="1.000" style="font-style:italic;">A holdout's firms are charged on their member-market sales plus a capped share of the rest, and members divide it until the holdout joins and claims its share.</text>
+</svg>

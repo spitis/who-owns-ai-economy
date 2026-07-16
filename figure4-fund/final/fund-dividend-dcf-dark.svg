@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img">
+  <title>How fast can a labor-indexed tax fund a livable dividend?</title>
+  <desc>Payout-valued DCF used for Figure 4. U.S. public dividends in three AI scenarios, using an explicit ownership ledger and permanent dilution in the valuation kernel.</desc>
+  <metadata>
+    <model-basis>U.S. analysis · Payout-valued DCF with permanent-policy pricing</model-basis>
+  </metadata>
+  <style>
+    .title { fill:#e6e6e3;font:600 30px system-ui,sans-serif }
+    .subtitle { fill:#999;font:19px system-ui,sans-serif }
+    .axistext { fill:#b4b4b2;font:20px system-ui,sans-serif }
+    .label { font:600 21px system-ui,sans-serif }
+    .note { fill:#999;font:italic 18px system-ui,sans-serif }
+    .grid { stroke:#3a3a3c;stroke-width:1.5 }
+    .axis { stroke:#8a8a8a;stroke-width:1.5 }
+    .benchmark { stroke:#e8978a;stroke-width:2.8;stroke-dasharray:10 7 }
+    .curve { fill:none;stroke-width:4;stroke-linejoin:round;stroke-linecap:round }
+  </style>
+  <rect width="1400" height="900" fill="#1C1C1D"/>
+  <text class="title" x="700" y="54" text-anchor="middle">How fast can a labor-indexed tax fund a livable dividend?</text>
+  <text class="subtitle" x="700" y="88" text-anchor="middle">U.S. analysis · Payout-valued DCF with permanent-policy pricing</text>
+  <line class="grid" x1="150.0" y1="800.0" x2="1360.0" y2="800.0"/>
+  <text class="axistext" x="136.0" y="807.0" text-anchor="end">$0</text>
+  <line class="grid" x1="150.0" y1="691.7" x2="1360.0" y2="691.7"/>
+  <text class="axistext" x="136.0" y="698.7" text-anchor="end">$10k</text>
+  <line class="grid" x1="150.0" y1="583.3" x2="1360.0" y2="583.3"/>
+  <text class="axistext" x="136.0" y="590.3" text-anchor="end">$20k</text>
+  <line class="grid" x1="150.0" y1="475.0" x2="1360.0" y2="475.0"/>
+  <text class="axistext" x="136.0" y="482.0" text-anchor="end">$30k</text>
+  <line class="grid" x1="150.0" y1="366.7" x2="1360.0" y2="366.7"/>
+  <text class="axistext" x="136.0" y="373.7" text-anchor="end">$40k</text>
+  <line class="grid" x1="150.0" y1="258.3" x2="1360.0" y2="258.3"/>
+  <text class="axistext" x="136.0" y="265.3" text-anchor="end">$50k</text>
+  <line class="grid" x1="150.0" y1="150.0" x2="1360.0" y2="150.0"/>
+  <text class="axistext" x="136.0" y="157.0" text-anchor="end">$60k</text>
+  <line class="axis" x1="150.0" y1="800.0" x2="1360.0" y2="800.0"/>
+  <text class="axistext" x="150.0" y="836.0" text-anchor="middle">0</text>
+  <text class="axistext" x="392.0" y="836.0" text-anchor="middle">10</text>
+  <text class="axistext" x="634.0" y="836.0" text-anchor="middle">20</text>
+  <text class="axistext" x="876.0" y="836.0" text-anchor="middle">30</text>
+  <text class="axistext" x="1118.0" y="836.0" text-anchor="middle">40</text>
+  <text class="axistext" x="1360.0" y="836.0" text-anchor="middle">50</text>
+  <text class="axistext" x="755.0" y="876.0" text-anchor="middle">Years after the tax is enacted</text>
+  <text class="axistext" x="46" y="475.0" text-anchor="middle" transform="rotate(-90 46 475.0)">Dividend per person (real 2026 $)</text>
+  <line class="benchmark" x1="150.0" y1="420.8" x2="1360.0" y2="420.8"/>
+  <text class="label" fill="#e8978a" x="166.0" y="408.8">Livable income (~$35k)</text>
+  <polyline class="curve" stroke="#aaa" points="174.20,797.40 198.40,796.97 222.60,796.51 246.80,796.01 271.00,795.46 295.20,794.87 319.40,794.23 343.60,793.53 367.80,792.78 392.00,791.97 416.20,791.08 440.40,790.12 464.60,789.09 488.80,787.96 513.00,786.75 537.20,785.44 561.40,784.04 585.60,782.54 609.80,780.95 634.00,779.28 658.20,777.52 682.40,775.69 706.60,773.81 730.80,771.88 755.00,769.93 779.20,767.96 803.40,765.99 827.60,764.04 851.80,762.10 876.00,760.20 900.20,758.34 924.40,756.52 948.60,754.75 972.80,753.02 997.00,751.34 1021.20,749.70 1045.40,748.10 1069.60,746.54 1093.80,745.02 1118.00,743.53 1142.20,742.06 1166.40,740.62 1190.60,739.20 1214.80,737.80 1239.00,736.41 1263.20,735.03 1287.40,733.66 1311.60,732.30 1335.80,730.95 1360.00,729.59"/>
+  <text class="label" fill="#aaa" x="1352.0" y="717.6" text-anchor="end">baseline&#8201;·&#8201;$6,499</text>
+  <polyline class="curve" stroke="#6aa6dd" points="174.20,796.38 198.40,795.64 222.60,794.79 246.80,793.83 271.00,792.74 295.20,791.52 319.40,790.16 343.60,788.64 367.80,786.96 392.00,785.08 416.20,782.99 440.40,780.67 464.60,778.10 488.80,775.26 513.00,772.12 537.20,768.67 561.40,764.88 585.60,760.74 609.80,756.25 634.00,751.40 658.20,746.21 682.40,740.69 706.60,734.85 730.80,728.73 755.00,722.37 779.20,715.78 803.40,709.03 827.60,702.12 851.80,695.11 876.00,688.02 900.20,680.86 924.40,673.66 948.60,666.44 972.80,659.18 997.00,651.91 1021.20,644.62 1045.40,637.31 1069.60,629.96 1093.80,622.58 1118.00,615.16 1142.20,607.68 1166.40,600.13 1190.60,592.51 1214.80,584.80 1239.00,576.99 1263.20,569.08 1287.40,561.05 1311.60,552.90 1335.80,544.60 1360.00,536.17"/>
+  <text class="label" fill="#6aa6dd" x="1352.0" y="524.2" text-anchor="end">moderate AI&#8201;·&#8201;$24,354</text>
+  <polyline class="curve" stroke="#e08a4c" points="174.20,795.85 198.40,794.89 222.60,793.76 246.80,792.44 271.00,790.93 295.20,789.20 319.40,787.24 343.60,785.01 367.80,782.49 392.00,779.65 416.20,776.45 440.40,772.84 464.60,768.79 488.80,764.24 513.00,759.16 537.20,753.49 561.40,747.19 585.60,740.22 609.80,732.55 634.00,724.17 658.20,715.05 682.40,705.22 706.60,694.67 730.80,683.45 755.00,671.59 779.20,659.13 803.40,646.13 827.60,632.63 851.80,618.68 876.00,604.32 900.20,589.58 924.40,574.49 948.60,559.06 972.80,543.30 997.00,527.22 1021.20,510.81 1045.40,494.05 1069.60,476.94 1093.80,459.45 1118.00,441.56 1142.20,423.25 1166.40,404.48 1190.60,385.24 1214.80,365.48 1239.00,345.17 1263.20,324.30 1287.40,302.81 1311.60,280.69 1335.80,257.90 1360.00,234.41"/>
+  <text class="label" fill="#e08a4c" x="1352.0" y="194.4" text-anchor="end">strong AI&#8201;·&#8201;$52,209</text>
+  <circle cx="755.0" cy="671.6" r="6" fill="#e08a4c"/>
+  <text class="note" x="741.0" y="655.6" text-anchor="end">fund owns 17%</text>
+  <circle cx="1360.0" cy="234.4" r="6" fill="#e08a4c"/>
+  <text class="note" x="1352.0" y="222.4" text-anchor="end">fund owns 22%</text>
+</svg>
