@@ -8,6 +8,19 @@ Code and data behind the two computed figures in
 | [`figure3-club/`](figure3-club/) | **Figure 3**, the enforcement-club ledger | What each country collects as it joins a club that levies large firms according to where they sell, and what a holdout leaves on the table |
 | [`figure4-fund/`](figure4-fund/) | **Figure 4**, the fund-dividend paths | A fifty-year public dividend per person under three AI scenarios, as a public fund gradually accumulates covered equity |
 
+## How the figure bases relate
+
+Figure 3 is a one-year allocation snapshot over $126.693 trillion of worldwide
+listed equity: $62.186 trillion in the United States and $64.507 trillion
+elsewhere. Private firms are excluded because no comprehensive,
+internationally comparable valuation series is available.
+
+Figure 4 uses the domestic fallback, scoped to large U.S.-listed firms alone. A
+1% charge on the $62.186 trillion listed-value anchor is $622 billion. Figure
+4's DCF is calibrated from projected covered-firm payouts rather than
+mechanically from that market-cap value, although an alternative
+market-cap-first model provides a cross-check and produces similar results.
+
 ## Quickstart
 
 Python 3.10 or later is required. Node.js is optional and is used only for the

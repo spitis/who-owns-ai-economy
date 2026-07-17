@@ -4,7 +4,7 @@ This directory contains the simulation behind Figure 4 of
 ["Who Owns the AI Economy?"](https://silviupitis.com/blog/2026/who-owns-the-ai-economy/).
 The essay proposes an annual levy on large corporations, paid in newly issued
 non-voting shares to a public fund. The simulation follows the fund for fifty
-years and reports its annual dividend per U.S. resident in real 2026 dollars.
+years and reports its annual dividend per U.S. person in real 2026 dollars.
 
 The opening dollar values use the latest available observations, spanning
 end-2024 through 2026, as scale anchors for the real-2026-dollar calibration.
